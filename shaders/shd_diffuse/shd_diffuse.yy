@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_diffuse",
+  "name":"shd_diffuse",
+  "parent":{
+    "name":"3DTutorial81MatrixInverse",
+    "path":"3DTutorial81MatrixInverse.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

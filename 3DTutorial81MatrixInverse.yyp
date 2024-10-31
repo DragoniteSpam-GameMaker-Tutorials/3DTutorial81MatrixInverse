@@ -1,0 +1,45 @@
+{
+  "$GMProject":"",
+  "%Name":"3DTutorial81MatrixInverse",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[
+    {"$GMFolder":"","%Name":"Texture Maps","folderPath":"folders/Texture Maps.yy","name":"Texture Maps","resourceType":"GMFolder","resourceVersion":"2.0",},
+  ],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"chest.obj","CopyToMask":-1,"filePath":"datafiles","name":"chest.obj","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"ground.vbuff","CopyToMask":-1,"filePath":"datafiles","name":"ground.vbuff","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.8.1.171",
+  },
+  "name":"3DTutorial81MatrixInverse",
+  "resources":[
+    {"id":{"name":"fnt_game","path":"fonts/fnt_game/fnt_game.yy",},},
+    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},},
+    {"id":{"name":"Player","path":"objects/Player/Player.yy",},},
+    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},},
+    {"id":{"name":"import_obj_optimized","path":"scripts/import_obj_optimized/import_obj_optimized.yy",},},
+    {"id":{"name":"import_obj","path":"scripts/import_obj/import_obj.yy",},},
+    {"id":{"name":"shd_diffuse","path":"shaders/shd_diffuse/shd_diffuse.yy",},},
+    {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},
+    {"id":{"name":"spr_xenoblade","path":"sprites/spr_xenoblade/spr_xenoblade.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"room0","path":"rooms/room0/room0.yy",},},
+  ],
+  "templateType":null,
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}

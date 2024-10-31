@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"import_obj_optimized",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"import_obj_optimized",
+  "parent":{
+    "name":"3DTutorial81MatrixInverse",
+    "path":"3DTutorial81MatrixInverse.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

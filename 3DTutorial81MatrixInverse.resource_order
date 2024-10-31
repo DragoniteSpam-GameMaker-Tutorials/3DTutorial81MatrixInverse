@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Texture Maps","order":16,"path":"folders/Texture Maps.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"fnt_game","order":2,"path":"fonts/fnt_game/fnt_game.yy",},
+    {"name":"Camera","order":7,"path":"objects/Camera/Camera.yy",},
+    {"name":"Player","order":8,"path":"objects/Player/Player.yy",},
+    {"name":"room0","order":6,"path":"rooms/room0/room0.yy",},
+    {"name":"import_obj_optimized","order":19,"path":"scripts/import_obj_optimized/import_obj_optimized.yy",},
+    {"name":"import_obj","order":18,"path":"scripts/import_obj/import_obj.yy",},
+    {"name":"shd_diffuse","order":17,"path":"shaders/shd_diffuse/shd_diffuse.yy",},
+    {"name":"spr_xenoblade","order":1,"path":"sprites/spr_xenoblade/spr_xenoblade.yy",},
+  ],
+}
