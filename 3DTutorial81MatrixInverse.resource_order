@@ -9,7 +9,7 @@
     {"name":"room0","order":6,"path":"rooms/room0/room0.yy",},
     {"name":"import_obj_optimized","order":19,"path":"scripts/import_obj_optimized/import_obj_optimized.yy",},
     {"name":"import_obj","order":18,"path":"scripts/import_obj/import_obj.yy",},
-    {"name":"matrix_inverse","order":20,"path":"scripts/matrix_inverse/matrix_inverse.yy",},
+    {"name":"matrix_inverse_manually","order":22,"path":"scripts/matrix_inverse_manually/matrix_inverse_manually.yy",},
     {"name":"Shader2","order":21,"path":"shaders/Shader2/Shader2.yy",},
     {"name":"shd_diffuse","order":17,"path":"shaders/shd_diffuse/shd_diffuse.yy",},
     {"name":"spr_xenoblade","order":1,"path":"sprites/spr_xenoblade/spr_xenoblade.yy",},

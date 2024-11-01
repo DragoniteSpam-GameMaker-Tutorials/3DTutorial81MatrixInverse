@@ -25,18 +25,19 @@ shader_set(shd_diffuse);
 
 vertex_submit(vb_ground, pr_trianglelist, sprite_get_texture(spr_ground, 0));
 
+
 var mat_rotation = matrix_build(0, 0, 0, 0, 0, current_time / 40, 32, 32, 32);
 var mat_translation = matrix_build(200, 300, 50, 0, 0, 0, 1, 1, 1);
 
+
+//////
 var mat_combined = matrix_multiply(mat_rotation, mat_translation);
+
 var mat_translation_inverse = matrix_inverse(mat_translation);
-var mat_rotation_but_the_long_way = matrix_multiply(mat_combined, mat_translation_inverse);
 
+var mat_rotation_the_long_way = matrix_multiply(mat_combined, mat_translation_inverse);
 
-
-
-
-matrix_set(matrix_world, mat_rotation_but_the_long_way);
+matrix_set(matrix_world, mat_rotation_the_long_way);
 vertex_submit(vb_chest, pr_trianglelist, sprite_get_texture(spr_xenoblade, 0));
 
 matrix_set(matrix_world, matrix_build_identity());

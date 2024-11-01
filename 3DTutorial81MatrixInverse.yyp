@@ -19,7 +19,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.8.1.171",
+    "IDEVersion":"2024.1100.0.666",
   },
   "name":"3DTutorial81MatrixInverse",
   "resources":[
@@ -29,7 +29,7 @@
     {"id":{"name":"room0","path":"rooms/room0/room0.yy",},},
     {"id":{"name":"import_obj_optimized","path":"scripts/import_obj_optimized/import_obj_optimized.yy",},},
     {"id":{"name":"import_obj","path":"scripts/import_obj/import_obj.yy",},},
-    {"id":{"name":"matrix_inverse","path":"scripts/matrix_inverse/matrix_inverse.yy",},},
+    {"id":{"name":"matrix_inverse_manually","path":"scripts/matrix_inverse_manually/matrix_inverse_manually.yy",},},
     {"id":{"name":"Shader2","path":"shaders/Shader2/Shader2.yy",},},
     {"id":{"name":"shd_diffuse","path":"shaders/shd_diffuse/shd_diffuse.yy",},},
     {"id":{"name":"spr_ground","path":"sprites/spr_ground/spr_ground.yy",},},

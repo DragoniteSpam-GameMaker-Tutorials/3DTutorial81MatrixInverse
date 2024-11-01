@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"matrix_inverse",
+  "%Name":"matrix_inverse_manually",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"matrix_inverse",
+  "name":"matrix_inverse_manually",
   "parent":{
     "name":"3DTutorial81MatrixInverse",
     "path":"3DTutorial81MatrixInverse.yyp",
